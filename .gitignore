@@ -13,7 +13,6 @@ a.out
 main
 *.elf
 *:tests
-
 # Ignore build directories (commonly used by CMake and similar tools)
 build/
 bin/
