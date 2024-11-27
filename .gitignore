@@ -1,0 +1,36 @@
+# Ignore object files and compiled binaries
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# Ignore compiled executables (no extension)
+a.out
+main
+*.elf
+*:tests
+
+# Ignore build directories (commonly used by CMake and similar tools)
+build/
+bin/
+dist/
+
+# Ignore debug symbols
+*.dSYM/
+*.pdb
+
+# Ignore temporary and log files
+*.log
+*.tmp
+
+# Ignore IDE-specific and OS-generated files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
