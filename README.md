@@ -21,7 +21,7 @@ cses-problemset-solutions
 
 ## Problem Categories
 ### Introductory Problems
-- [Weird Algorithm](introductory-problems/weird-algorithm)
+- 📄 [Weird Algorithm](introductory-problems/weird-algorithm)
 
 > More categories and problems will be added as I work through the CSES problem set.
 
