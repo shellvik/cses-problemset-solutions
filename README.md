@@ -21,10 +21,10 @@ cses-problemset-solutions
 
 ## Problem Categories
 ### Introductory Problems
-- 📄 [Weird Algorithm](introductory-problems/weird-algorithm)
-
+- 📄 [**Weird Algorithm**](introductory-problems/weird-algorithm)
+- 📄 [**Missing Number**](introductory-problems/missing-number/)
 > More categories and problems will be added as I work through the CSES problem set.
 
-#### Clone the repository:
+## Clone the repository:
    ```bash
    git clone https://github.com/shellvik/cses-problemset-solutions.git
