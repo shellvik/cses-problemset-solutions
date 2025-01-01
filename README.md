@@ -23,7 +23,7 @@ cses-problemset-solutions
 ### Introductory Problems
 - 📄 [**Weird Algorithm**](introductory-problems/weird-algorithm)
 - 📄 [**Missing Number**](introductory-problems/missing-number/)
-- 📄 [[**Repetitions**]](introductory-problems/repetitions/)
+- 📄 [**Repetitions**](introductory-problems/repetitions/)
 > More categories and problems will be added as I work through the CSES problem set.
 
 ## Clone the repository:
